@@ -1,0 +1,7 @@
+LET A = 5;
+LET B = 2;
+LET C = 8;
+LET D = 9;
+LET E = ((A+B)*C)/D;
+PRINT "CALCULATING: (({A}+{B})*{C})/{D}";
+PRINT "ANSWER IS {E}";
