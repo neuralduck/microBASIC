@@ -1,0 +1,6 @@
+PRINT "HELLO THERE!";
+LET A = 10;
+LET B = 5;
+LET C = -3;
+LET Z = (A*B) + C;
+PRINT "ANSWER IS {Z}";
